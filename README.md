@@ -1,7 +1,7 @@
 readme.md
 # T3A2-A ( For T3A2-B, please click [here](#t3a2-b))
 
-[# Link to our app](https://frontend-sigma-neon.vercel.app/)
+[Link to our app](https://frontend-sigma-neon.vercel.app/)
 
 
 
