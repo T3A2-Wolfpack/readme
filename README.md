@@ -1,9 +1,7 @@
 readme.md
-# T3A2-A ( For T3A2-B, please click [here](#t3a2-b))
+# T3A2-A ( For T3A2-B, please click [here](#t3a2-b) )
 
-[Link to our app](https://frontend-sigma-neon.vercel.app/)
-
-
+[Link to our app](https://frontend-sigma-neon.vercel.app/whiskeys)
 
 ## Whiskey Testing App
 
@@ -159,6 +157,8 @@ The repo will be stored on github so each member of our team has a central repos
 
 ### - Trello Board screenshots
 
+[Link to Trello Board](https://trello.com/b/gLpp5IGX/hwhiskey)  
+
 Screenshots of App progress shown through the Kanban board so far:
 
 Initial Shot part 1
@@ -194,6 +194,44 @@ Shot 9
 Shot 10 - Complete for part A
 ![Screenshot 10](docs/trello/trello10.png)
 
+Shot 11
+![Screentshot 11](docs/trello/trello11.png)
+
+Shot 12
+![Screentshot 12](docs/trello/trello12.png)
+
+Shot 13
+![Screentshot 13](docs/trello/trello13.png)
+
+Shot 14
+![Screentshot 14](docs/trello/trello14.png)
+
+Shot 15
+![Screentshot 15](docs/trello/trello15.png)
+
+Shot 16
+![Screentshot 16](docs/trello/trello-16.png)
+
+Shot 17
+![Screentshot 17](docs/trello/trello-17.png)
+
+Shot 18
+![Screentshot 18](docs/trello/trello-18.png)
+
+Shot 19
+![Screentshot 19](docs/trello/trello-19.png)
+
+Shot 20
+![Screentshot 20](docs/trello/trello20.png)
+
+Shot 21
+![Screentshot 21](docs/trello/trello21.png)
+
+Shot 22
+![Screentshot 22](docs/trello/trello22.png)
+
+Shot 23
+![Screentshot 23](docs/trello/trello23.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
